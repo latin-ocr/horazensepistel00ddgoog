@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horazensepistel00ddgoog/horazensepistel00ddgoog_0362.png"; bbox 0 0 2919 4716; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 811 995 2915 2332">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 811 995 2343 1316">
+     <span class='ocr_line' id='line_1_1' title="bbox 811 995 2343 1316; baseline -0.151 -27"><span class='ocrx_word' id='word_1_1' title='bbox 811 1006 1781 1316; x_wconf 43' lang='grc' dir='ltr'>Ξι-ἒὲξὲτὲἓἋέὶὲῖὲ-ἓέ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1810 1045 1919 1132; x_wconf 55' lang='lat'>321.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1980 1014 2145 1115; x_wconf 38' lang='grc' dir='ltr'>ὦ,</span> <span class='ocrx_word' id='word_1_4' title='bbox 2326 995 2343 1006; x_wconf 86' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2912 1063 2915 1120">
+     <span class='ocr_line' id='line_1_2' title="bbox 2912 1063 2915 1120; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 2912 1063 2915 1120; x_wconf 71' lang='grc'>1</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 923 1267 2915 2058">
+     <span class='ocr_line' id='line_1_3' title="bbox 1063 1267 2915 1706; baseline -0.152 -50"><span class='ocrx_word' id='word_1_6' title='bbox 1063 1572 1220 1706; x_wconf 63' lang='lat' dir='ltr'>oc&lt;</span> <span class='ocrx_word' id='word_1_7' title='bbox 1273 1541 1413 1650; x_wconf 56' lang='grc' dir='ltr'>«ῃ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1441 1499 1575 1598; x_wconf 61' lang='grc' dir='ltr'>Ὡὶ</span> <span class='ocrx_word' id='word_1_9' title='bbox 2912 1267 2915 1324; x_wconf 67' lang='lat'><strong>¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 923 1881 1559 2058; baseline -0.16 4"><span class='ocrx_word' id='word_1_10' title='bbox 923 1957 1090 2058; x_wconf 68' lang='lat' dir='ltr'>,sm</span> <span class='ocrx_word' id='word_1_11' title='bbox 1113 1941 1174 2022; x_wconf 61' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_12' title='bbox 1193 1928 1254 2008; x_wconf 70' lang='lat'>4</span> <span class='ocrx_word' id='word_1_13' title='bbox 1283 1901 1464 2002; x_wconf 61' lang='lat' dir='ltr'>xasa</span> <span class='ocrx_word' id='word_1_14' title='bbox 1497 1881 1559 1964; x_wconf 78' lang='lat'>5</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1005 2011 2882 2332">
+     <span class='ocr_line' id='line_1_5' title="bbox 1005 2072 2878 2332; baseline -0.138 6"><span class='ocrx_word' id='word_1_15' title='bbox 1005 2171 1390 2332; x_wconf 29' lang='lat' dir='ltr'>RE&#39;C’D</span> <span class='ocrx_word' id='word_1_16' title='bbox 1445 2237 1496 2310; x_wconf 57' lang='grc' dir='ltr'><strong>ι</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1522 2233 1601 2311; x_wconf 74' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_18' title='bbox 2866 2072 2878 2164; x_wconf 37' lang='lat' dir='ltr'>X</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2275 3988 2531 4044">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2275 3988 2531 4044">
+     <span class='ocr_line' id='line_1_6' title="bbox 2275 3988 2531 4044; baseline -0.125 13"><span class='ocrx_word' id='word_1_19' title='bbox 2275 3988 2531 4044; x_wconf 64' lang='lat' dir='ltr'><strong>som.q‚r27</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
